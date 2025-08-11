@@ -1,9 +1,15 @@
 # SYSU_Phy-and-Astro_CourseResources
 
+In this project, I uploaded almost all the learning materials of the main courses I've learned. Anyone is welcome to download these files whether you're a SYSU student or not, sharing the study resources to make them be public is what I'm devoted to.
+
 ## Updated in 7.30 2023 
 
 
-In this project, I uploaded almost all the learning materials of the main courses I've learned. Anyone is welcome to download these files whether you're a SYSU student or not, sharing the study resources to make them be public is what I'm devoted to.
+### 如果你是来找 *考试试卷* 的，那么恭喜你我这个项目里没有，但是我自己总结了各个课程的习题，以我的考试体验，我总结的习题中完全包含了考试考过的所有题目，所以你可以直接下载各个课程的习题整理PDF用来参考考试题型~
+
+### 如果你是来找 *实验报告* 的，那么恭喜你我这个项目里也没有，但是你可以联系我Email，我看到后可能大概也许会发给你实验报告参考。（为什么是 *“可能大概也许”* ，因为有些报告是联合写作，我必须要询问其他人意见）
+
+
 
 ## 1. English Version
 
@@ -44,7 +50,9 @@ By the way, 物理专业请慎重考虑，毕竟物理🐶都不学。
 
 ## Updated in 8.30 2025
 
-我于2025年已经上岸本院研究生，我将把我考研资料同步上传到此页面中，有需要请自取，全部免费！如果你对考研、保研有问题，可以随时联系我的Email，我受到邮件后可以简单解答一些 ~（*为什么保研考研可以找我？因为我参加保研夏令营也拿到优营，但保研刚好保到我前一个人，只能两个月速通考研XD*）
+大学本科课程笔记已经上传完毕，大家按需自取。
+
+我于2025年已经上岸本院研究生，我将把我考研资料同步上传到此页面中，包括历年考题和我的笔记（不确定真伪如何），有需要请自取（全部免费！）。如果你对考研、保研有问题，可以随时联系我的Email，我受到邮件后可以简单解答一些 ~（*为什么保研考研可以找我？因为我参加保研夏令营也拿到优营，但保研刚好保到我前一个人，所以我只能两个月速通考研XD*）
 
 
 

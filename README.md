@@ -9,9 +9,9 @@ In this project, I uploaded almost all the learning materials of the main course
 
 ### 如果你是来找 *实验报告* 的，那么恭喜你我这个项目里也没有，但是你可以联系我Email，我看到后可能大概也许会发给你实验报告参考。（为什么是 *“可能大概也许”* ，因为有些报告是联合写作，我必须要询问其他人意见）
 
+-----------------------------------------------------------------------------------------------------------------------------
 
-
-## 1. English Version
+### 1. English Version
 
 In this project, I uploaded and published some relevant notes, textbooks, and some homework & exercises for Undergraduate Physics Courses at SYSU. These files are suitable for Sophomore students, ALTHOUGH THEY'RE NOT ABSOLUTELY COMPLETE...
 
@@ -25,7 +25,7 @@ If you have any suggestions, you can email me at _**ryulingit@163.com**_.
 
 You can switch the branch to search for what you need.
 
-## 2. Chinese Version
+### 2. Chinese Version
 
 本人是中山大学雾天2021本科生，我将把我大学上过的大部分课的笔记和相关资料上传到这个项目里，以帮助各位能够在学习中更省时省力。_*我一直致力于DATA PUBLICIZATION，大学知识和资源的垄断在我看来是非常难以容忍的，如果我的帮助能让各位读者的学习更轻松、能获得更好的成绩，我将深感荣幸。*_
 
